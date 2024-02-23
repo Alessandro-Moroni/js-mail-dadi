@@ -35,7 +35,7 @@ bt1.addEventListener('click',function(){
   if(dadoUser > dadoPC){
     result = `Hai vinto te! con ${dadoUser} a ${dadoPC}`;
   }else if(dadoUser < dadoPC){
-    result = `Ha vinto il Computer te! con ${dadoUser} a ${dadoPC}`;
+    result = `Ha vinto il Computer! con ${dadoUser} a ${dadoPC}`;
   }else{
     result = `Il risultato è pari! con ${dadoUser} a ${dadoPC}`;
   }
