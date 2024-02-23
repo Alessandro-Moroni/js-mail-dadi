@@ -11,6 +11,6 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
 ## Svolgimento
 1. chiedere email
-2. stampare un messaggio che puo accedere
+2. verificare email e stampare un messaggio
 3. generare un numero random da 1 a 6 per il giocatore e per il computer
 4. il numero più alto vince
